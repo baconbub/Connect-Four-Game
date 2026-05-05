@@ -21,5 +21,5 @@ Features:
 - Dynamic board sizing
 
 Challenges:
-Full minimax was extremely slow with the possible number of game states checked -> Solved by limiting depth
-AI would seeminingly randomly select its next move -> Introduced priorities for move selection
+- Full minimax was extremely slow with the possible number of game states checked -> Solved by limiting depth
+- AI would seeminingly randomly select its next move -> Introduced priorities for move selection
